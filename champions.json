@@ -1,4 +1,4 @@
-{
+[{
    "type": "champion",
     "format": "standAloneComplex",
     "version": "10.22.1",
@@ -7567,4 +7567,4 @@
             }
         }
     }
-}
+}]
